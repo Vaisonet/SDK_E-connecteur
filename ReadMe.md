@@ -1,11 +1,12 @@
-=Kit de développement E-connecteur - SDK E-connecteur
+Kit de développement E-connecteur - SDK E-connecteur
+====================================================
 
 Le SDK E-connecteur permet d'adapter les flux de données échangés à des particularités qui vous seraient propres.
 Le module SDK est nécessaire pour utiliser ses fonctionnalités.
 
 Plusieurs outils sont à votre disposition : 
- - vues SQL,
- - XSLT.
+* vues SQL,
+* XSLT.
 
 Ce dépôt contient la documentation (fichier "documentation.pdf"), des exemples (dossier "exemples") et un outil de test de tranformation XSLT ecrit en php ("test.php").
  
