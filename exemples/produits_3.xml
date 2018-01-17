@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
+<product>
+	<id><![CDATA[2174]]></id>
+	<id_manufacturer xlink:href="http://www.demo.com/api/manufacturers/4"><![CDATA[4]]></id_manufacturer>
+	<id_supplier><![CDATA[0]]></id_supplier>
+	<id_category_default xlink:href="http://www.demo.com/api/categories/114"><![CDATA[114]]></id_category_default>
+	<new></new>
+	<cache_default_attribute><![CDATA[3657]]></cache_default_attribute>
+	<id_default_image xlink:href="http://www.demo.com/api/images/products/2174/4550" not_filterable="true"><![CDATA[4550]]></id_default_image>
+	<id_default_combination xlink:href="http://www.demo.com/api/combinations/3657" not_filterable="true"><![CDATA[3657]]></id_default_combination>
+	<id_tax_rules_group xlink:href="http://www.demo.com/api/tax_rules_group/1"><![CDATA[1]]></id_tax_rules_group>
+	<position_in_category not_filterable="true"><![CDATA[88]]></position_in_category>
+	<manufacturer_name not_filterable="true"><![CDATA[VITA]]></manufacturer_name>
+	<quantity not_filterable="true"><![CDATA[0]]></quantity>
+	<type not_filterable="true"><![CDATA[simple]]></type>
+	<price_product_base not_filterable="true"><![CDATA[0.000000]]></price_product_base>
+	<id_shop_default><![CDATA[1]]></id_shop_default>
+	<reference></reference>
+	<supplier_reference></supplier_reference>
+	<location></location>
+	<width><![CDATA[0.000000]]></width>
+	<height><![CDATA[0.000000]]></height>
+	<depth><![CDATA[0.000000]]></depth>
+	<weight><![CDATA[0.000000]]></weight>
+	<quantity_discount><![CDATA[0]]></quantity_discount>
+	<ean13></ean13>
+	<upc></upc>
+	<cache_is_pack><![CDATA[0]]></cache_is_pack>
+	<cache_has_attachments><![CDATA[1]]></cache_has_attachments>
+	<is_virtual><![CDATA[0]]></is_virtual>
+	<on_sale><![CDATA[0]]></on_sale>
+	<online_only><![CDATA[0]]></online_only>
+	<ecotax><![CDATA[0.000000]]></ecotax>
+	<minimal_quantity><![CDATA[1]]></minimal_quantity>
+	<price><![CDATA[31]]></price>
+	<wholesale_price><![CDATA[0.000000]]></wholesale_price>
+	<unity></unity>
+	<unit_price_ratio><![CDATA[0.000000]]></unit_price_ratio>
+	<additional_shipping_cost><![CDATA[0.00]]></additional_shipping_cost>
+	<customizable><![CDATA[0]]></customizable>
+	<text_fields><![CDATA[0]]></text_fields>
+	<uploadable_files><![CDATA[0]]></uploadable_files>
+	<active><![CDATA[1]]></active>
+	<redirect_type><![CDATA[404]]></redirect_type>
+	<id_product_redirected><![CDATA[0]]></id_product_redirected>
+	<available_for_order><![CDATA[1]]></available_for_order>
+	<available_date><![CDATA[0000-00-00]]></available_date>
+	<condition><![CDATA[new]]></condition>
+	<show_price><![CDATA[1]]></show_price>
+	<indexed><![CDATA[1]]></indexed>
+	<visibility><![CDATA[both]]></visibility>
+	<advanced_stock_management><![CDATA[0]]></advanced_stock_management>
+	<date_add><![CDATA[2016-05-31 17:37:01]]></date_add>
+	<date_upd><![CDATA[2017-10-16 13:03:59]]></date_upd>
+	<meta_description><language id="1" xlink:href="http://www.demo.com/api/languages/1"><![CDATA[résine Vita VM CC liquide]]></language></meta_description>
+	<meta_keywords><language id="1" xlink:href="http://www.demo.com/api/languages/1"><![CDATA[résine,vita,vm,cc,liquide]]></language></meta_keywords>
+	<meta_title><language id="1" xlink:href="http://www.demo.com/api/languages/1"><![CDATA[]]></language></meta_title>
+	<link_rewrite><language id="1" xlink:href="http://www.demo.com/api/languages/1"><![CDATA[vm-cc-liquide]]></language></link_rewrite>
+	<name><language id="1" xlink:href="http://www.demo.com/api/languages/1"><![CDATA[VITA VM CC Liquide]]></language></name>
+	<description><language id="1" xlink:href="http://www.demo.com/api/languages/1"><![CDATA[]]></language></description>
+	<description_short><language id="1" xlink:href="http://www.demo.com/api/languages/1"><![CDATA[<p><strong>VITA VM CC - Liquide auto </strong></p>
+<p><strong><br /></strong>2 contenances : 30 ou 100ml</p>]]></language></description_short>
+	<available_now><language id="1" xlink:href="http://www.demo.com/api/languages/1"><![CDATA[En stock]]></language></available_now>
+	<available_later><language id="1" xlink:href="http://www.demo.com/api/languages/1"><![CDATA[Sur commande]]></language></available_later>
+<associations>
+<categories node_type="category">
+	<category xlink:href="http://www.demo.com/api/categories/114">
+	<id><![CDATA[114]]></id>
+	</category>
+	<category xlink:href="http://www.demo.com/api/categories/117">
+	<id><![CDATA[117]]></id>
+	</category>
+	<category xlink:href="http://www.demo.com/api/categories/120">
+	<id><![CDATA[120]]></id>
+	</category>
+	<category xlink:href="http://www.demo.com/api/categories/287">
+	<id><![CDATA[287]]></id>
+	</category>
+</categories>
+<images node_type="image">
+	<image xlink:href="http://www.demo.com/api/images/products/2174/4550">
+	<id><![CDATA[4550]]></id>
+	</image>
+</images>
+<combinations node_type="combinations">
+	<combinations xlink:href="http://www.demo.com/api/combinations/3657">
+	<id><![CDATA[3657]]></id>
+	</combinations>
+	<combinations xlink:href="http://www.demo.com/api/combinations/3658">
+	<id><![CDATA[3658]]></id>
+	</combinations>
+</combinations>
+<product_option_values node_type="product_options_values">
+	<product_options_values xlink:href="http://www.demo.com/api/product_option_values/1470">
+	<id><![CDATA[1470]]></id>
+	</product_options_values>
+	<product_options_values xlink:href="http://www.demo.com/api/product_option_values/1471">
+	<id><![CDATA[1471]]></id>
+	</product_options_values>
+</product_option_values>
+<product_features node_type="product_feature"/>
+<tags node_type="tag"/>
+<stock_availables node_type="stock_available">
+	<stock_available xlink:href="http://www.demo.com/api/stock_availables/5993">
+	<id><![CDATA[5993]]></id>
+	<id_product_attribute><![CDATA[0]]></id_product_attribute>
+	</stock_available>
+	<stock_available xlink:href="http://www.demo.com/api/stock_availables/5994">
+	<id><![CDATA[5994]]></id>
+	<id_product_attribute><![CDATA[3657]]></id_product_attribute>
+	</stock_available>
+	<stock_available xlink:href="http://www.demo.com/api/stock_availables/5995">
+	<id><![CDATA[5995]]></id>
+	<id_product_attribute><![CDATA[3658]]></id_product_attribute>
+	</stock_available>
+</stock_availables>
+<accessories node_type="product"/>
+<product_bundle node_type="products"/>
+</associations>
+</product>
+</prestashop>
