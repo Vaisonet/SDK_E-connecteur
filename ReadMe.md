@@ -1,12 +1,13 @@
-Kit de développement E-connecteur - SDK E-connecteur
+Kit de développement E-connecteur - API E-connecteur
 ====================================================
 
-Le SDK E-connecteur permet d'adapter les flux de données échangés à des particularités qui vous seraient propres.
-Le module SDK est nécessaire pour utiliser ses fonctionnalités.
+L'API E-connecteur permet d'adapter les flux de données échangés à des particularités qui vous seraient propres.
+Le module API est nécessaire pour utiliser ses fonctionnalités.
 
 Plusieurs outils sont à votre disposition : 
 * vues SQL,
-* XSLT.
+* XSLT,
+* exemple de script permettant de compiler un exécutable de déploiement avec l'outil Inno Setup (SDK_Installer.iss).
 
 Ce dépôt contient la documentation (fichier "documentation.pdf"), des exemples (dossier "exemples") et un outil de test de tranformation XSLT ecrit en php ("test.php").
  
