@@ -1,1 +1,6 @@
+Voici comment fonctionne le E-connecteur pour identifier un client dans la gestion commerciale:
 
+https://assistance.e-connecteur.fr/support/solutions/articles/9000003704-comment-un-client-de-la-boutique-en-ligne-est-identifi%C3%A9-dans-la-gestion-commerciale-
+
+Auquel cas on peut implémenter d'autres régles pour cette démarche en suivant ce code,
+ici on à pris en exemple l'adresse mail pour forcer le code tiers.
